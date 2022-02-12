@@ -1,1 +1,1 @@
-Library-Management-System in python, a beginner python project
+Library-Management-System, a beginner python project
