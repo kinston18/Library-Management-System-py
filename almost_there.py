@@ -388,13 +388,6 @@ class Library:
         #======================================================================================================================	
 
 
-        self.lblLabel =Label(FrameDetail,font=('arial',10,'bold'),pady=7,
-        text="Member Type\t Author\t Reference ID\t Book Type\t Name\t Mobile no.\t Issue Date\t Due Date\t")
-        self.lblLabel.grid(row=0,column=0)
-
-        self.textDisplayR=Text(FrameDetail,font=('arial',13,'bold'),width=141,heigh=4,padx=2,pady=4)
-        self.textDisplayR.grid(row=1,column=0)	
-
 
         #=======================================Button=========================================================================
 
